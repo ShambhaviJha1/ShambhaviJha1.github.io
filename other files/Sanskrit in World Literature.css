@@ -1,0 +1,54 @@
+body {
+	margin-top: 40px;
+	margin-left: 13%;
+	margin-right: 13%;
+	
+	min-width: 400px;
+}
+
+img {
+	width: 22.5%;
+	float: left;
+	margin: 1.25%
+}
+
+h2 {
+	font-family: Raleway;
+	font-size: 30px;
+	color: black;
+	text-align: center;
+	margin-top: 25px;
+	margin-bottom:15px;	
+
+
+}
+
+ul {
+	font-family: Raleway;
+	font-size: 18px;	
+	text-align: center;
+	list-style: inside;
+	margin-bottom: 30px;
+
+}
+
+p, a {
+	font-family: Raleway;
+	margin-left: 1.66%;
+	font-size: 28px;
+	font-weight: 800;
+	text-transform: uppercase;
+	border-bottom: 2px solid #f1f1f1;
+	width: 30%;
+	min-width: 225px;
+	padding-bottom: 20px;
+	
+}
+
+a{
+	text-decoration: none;
+}
+
+a:visited {
+	color: black;
+}
