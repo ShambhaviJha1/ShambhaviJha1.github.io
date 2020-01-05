@@ -2,7 +2,7 @@ body {
 	margin-top: 40px;
 	margin-left: 13%;
 	margin-right: 13%;
-	
+	margin-bottom: 100px;
 	min-width: 400px;
 }
 
@@ -18,9 +18,7 @@ h2 {
 	color: black;
 	text-align: center;
 	margin-top: 25px;
-	margin-bottom:15px;	
-
-
+	margin-bottom:15px;
 }
 
 ul {
@@ -33,6 +31,7 @@ ul {
 }
 
 p, a {
+	color: black;
 	font-family: Raleway;
 	margin-left: 1.66%;
 	font-size: 28px;
